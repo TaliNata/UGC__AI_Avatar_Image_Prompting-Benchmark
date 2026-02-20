@@ -49,7 +49,3 @@ Models were evaluated qualitatively based on:
 - absence of advertising bias
 - suitability for health-related UGC
 - adherence to prompt constraints
-
----
-
-## Repository Structure
